@@ -1,0 +1,1 @@
+This is a project about how to use QT and libvlc to write a simple RTSP streaming player.
